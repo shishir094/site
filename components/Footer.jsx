@@ -47,7 +47,7 @@ const Footer = () => {
               <FaFacebook className="h-5 w-5" />
             </a>
             <a 
-              href="https://wa.me/977123456789" 
+              href="https://wa.me/9779766925069" 
               target="_blank" 
               rel="noopener noreferrer" 
               className="rounded-full bg-gray-100 p-2.5 text-gray-600 transition-all hover:bg-green-50 hover:text-green-500"
