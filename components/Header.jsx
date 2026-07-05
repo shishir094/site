@@ -16,7 +16,7 @@ const Header = () => {
                     
                     {/* Styled the text to look bold, clean, and professional */}
                     <h1 className="text-xl font-bold tracking-wide text-gray-800">
-                        SafaGunj
+                        सफागञ्ज
                     </h1>    
                     
                 </div>
