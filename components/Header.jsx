@@ -11,7 +11,7 @@ const Header = () => {
                     <img 
                         src="/logo.png" 
                         alt="Company Logo" 
-                        className="h-14 w-14 object-contain" 
+                        className="h-20 w-20 object-contain" 
                     />
                     
                     {/* Styled the text to look bold, clean, and professional */}
