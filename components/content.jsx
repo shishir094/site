@@ -10,20 +10,17 @@ const Content=()=>{
             
             {/* Styled title header for Safa Gunj */}
             <h2 className="text-2xl font-bold text-blue-700 mb-4 tracking-tight">
-              Why Regular Tank Cleaning Matters
+              नियमित रूपमा ट्याङ्की सफा गर्नु किन महत्त्वपूर्ण छ?
             </h2>
             
             {/* Styled paragraph text with Tailwind for high mobile readability */}
             <p className="text-gray-600 leading-relaxed text-base space-y-4">
-              Neglecting tank cleaning leads to noticeable degradation in water quality that filters alone cannot always fix.
-              <br /><br />
-              Neglecting your water tank invites invisible threats that can silently compromise your family's well-being. 
-              From severe gastrointestinal illnesses to respiratory and skin infections, the consequences of contaminated 
-              storage are far too grave to overlook. Taking proactive measures to maintain a hygienic tank is the most 
-              effective defense. 
+              ट्याङ्कीको सरसफाइमा लापरवाही गर्दा पानीको गुणस्तरमा प्रष्ट रूपमा गिरावट आउँछ, जसलाई फिल्टरले मात्र पनि सधैं सुधार्न सक्दैन।
+
+आफ्नो पानीको ट्याङ्कीलाई बेवास्ता गर्नाले त्यस्ता अदृश्य खतराहरू आउन सक्छन्, जसले सुटुक्क तपाईंको परिवारको स्वास्थ्य बिगार्न सक्छ। पेटको गम्भीर बिरामीदेखि श्वासप्रश्वास र छालाको संक्रमणसम्म, फोहोर ट्याङ्कीको परिणाम सोचेभन्दा भयानक हुन सक्छ। ट्याङ्कीलाई सधैं सफा र सुरक्षित राख्नु नै यसको सबैभन्दा ठूलो बचावट हो।
               <br /><br />
               <span className="font-semibold text-gray-800">
-                Don't wait for health problems to arise — safeguard your health today with Safa Gunj by ensuring your water storage remains clean and secure.
+                स्वास्थ्य बिग्रेपछि पछुताउनु भन्दा आजै सजग बनौँ — 'सफा गञ्ज' सँगै आफ्नो ट्याङ्की सुरक्षित राखौँ, स्वास्थ्य जोगाऔँ।
               </span>
             </p>
             
